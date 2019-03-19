@@ -1,0 +1,28 @@
+C:\Office\D\GitHub\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.Events.For.BundleCreation.dll.config
+C:\Office\D\GitHub\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.Events.For.BundleCreation.dll
+C:\Office\D\GitHub\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.Events.For.BundleCreation.pdb
+C:\Office\D\GitHub\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.Common.dll
+C:\Office\D\GitHub\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.ContentManager.dll
+C:\Office\D\GitHub\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.Logging.dll
+C:\Office\D\GitHub\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.ContentManager.Common.dll
+C:\Office\D\GitHub\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.ContentManager.TemplateTypes.dll
+C:\Office\D\GitHub\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.ContentManager.TypeRegistration.dll
+C:\Office\D\GitHub\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.ContentManager.Queuing.dll
+C:\Office\D\GitHub\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\obj\Debug\Tridion.Events.For.BundleCreation.csprojAssemblyReference.cache
+C:\Office\D\GitHub\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\obj\Debug\Tridion.Events.For.BundleCreation.csproj.CoreCompileInputs.cache
+C:\Office\D\GitHub\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\obj\Debug\Tridion.Events.For.BundleCreation.csproj.CopyComplete
+C:\Office\D\GitHub\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\obj\Debug\Tridion.Events.For.BundleCreation.dll
+C:\Office\D\GitHub\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\obj\Debug\Tridion.Events.For.BundleCreation.pdb
+C:\Custom App\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.Events.For.BundleCreation.dll.config
+C:\Custom App\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.Events.For.BundleCreation.dll
+C:\Custom App\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.Events.For.BundleCreation.pdb
+C:\Custom App\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.Common.dll
+C:\Custom App\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.ContentManager.dll
+C:\Custom App\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.Logging.dll
+C:\Custom App\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.ContentManager.Common.dll
+C:\Custom App\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.ContentManager.TemplateTypes.dll
+C:\Custom App\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.ContentManager.TypeRegistration.dll
+C:\Custom App\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\bin\Debug\Tridion.ContentManager.Queuing.dll
+C:\Custom App\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\obj\Debug\Tridion.Events.For.BundleCreation.csprojResolveAssemblyReference.cache
+C:\Custom App\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\obj\Debug\Tridion.Events.For.BundleCreation.dll
+C:\Custom App\Tridion.Events.For.BundleCreation\Tridion.Events.For.BundleCreation\obj\Debug\Tridion.Events.For.BundleCreation.pdb
